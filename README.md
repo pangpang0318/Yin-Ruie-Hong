@@ -5,3 +5,6 @@
 |2 | 姓名 | 殷瑞宏 |
 |3 | 職稱 | 文書行政 |
 |4 | 任職公司 | 宸通工程行 |
+
+# QR Code
+<img src="exported_qrcode_image_600.png" width="300" Height="300" />
