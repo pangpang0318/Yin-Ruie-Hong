@@ -9,7 +9,7 @@
 # QR Code
 <img src="exported_qrcode_image_600.png" width="300" Height="300" />
 
-<a href="https://www.youtube.com/watch?v=wSI86sKUPYo" target="_blank" ><img src="http://img.youtube.com/vi/wSI86sKUPYo/0.jpg" 
-alt="HOOK" width="400" height="250" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=wSI86sKUPYo" target="_blank">
+<img src="http://img.youtube.com/vi/wSI86sKUPYo/0.jpg" alt="HOOK" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
