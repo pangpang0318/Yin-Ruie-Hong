@@ -1,5 +1,3 @@
-
-
 <details>
 <summary>
 
@@ -33,4 +31,7 @@
 <a href="https://www.youtube.com/watch?v=wSI86sKUPYo" target="_blank">
 <img src="http://img.youtube.com/vi/wSI86sKUPYo/0.jpg" alt="HOOK" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
+
+<br>這是我目前最喜歡的Youtuber，很喜歡她介紹歷史的時候，那種眼睛發光且真心熱愛這項事物的樣子。
+<br>最喜歡的系列是「料理史王」跟「行萬里路」。
 </details>
